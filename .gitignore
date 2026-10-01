@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Uploaded files
+uploads/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
